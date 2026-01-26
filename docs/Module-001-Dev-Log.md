@@ -44,4 +44,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  layout of the mini-games/puzzles, character interactions, assets to be placed and interacted with
+  - Layout of the mini-games/puzzles, character interactions, assets to be placed and interacted with
