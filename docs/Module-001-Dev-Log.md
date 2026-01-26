@@ -25,7 +25,7 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--   N/A - still in the research and overall brainstorming phase
+  - N/A - still in the research and overall brainstorming phase
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
