@@ -31,7 +31,7 @@
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
   - How to go about the narrative-based portion and actual mini games (ie. introducing story -> introduction to game)
   - If I could increase difficulty in games as player progresses throughout stages/levels with more obstacles or rather add more features (increase complexity for example)
-  - How to go about designing the world - large free space for players to explore with characters or assets to interact with, small-scale world with puzzles, or transition between puzzles through character interactions. 
+  - How to go about designing the layout of the space/world - large free space for players to explore with characters or assets to interact with, small-scale world with puzzles, or transition between puzzles through character interactions, etc. 
   - Could collecting the ingredient assets for example, unlock new mini-games or rather other assets/features for the player - in-game currency or achievements?
 <!--
 
