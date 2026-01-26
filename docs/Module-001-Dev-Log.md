@@ -33,10 +33,7 @@
   - If I could increase difficulty in games as player progresses throughout stages/levels with more obstacles or rather add more features (increase complexity for example)
   - How to go about designing the layout of the space/world - large free space for players to explore with characters or assets to interact with, small-scale world with puzzles, or transition between puzzles through character interactions, etc. 
   - Could collecting the ingredient assets for example, unlock new mini-games or rather other assets/features for the player - in-game currency or achievements?
-<!-- Example prompts:-->
-<!-- "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?" -->
+
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
