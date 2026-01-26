@@ -4,7 +4,7 @@
 - **Primary Ideas:**
   - [Sugartrap Studio]
   - [Cherry on Top Studio]
-  - [Insert name idea 3]
+  - [Mit n' Match]
 - **Alternative Ideas:**
   - [Whisk and Play]
   - [Happy Oven Studio]
