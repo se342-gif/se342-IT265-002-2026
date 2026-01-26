@@ -6,7 +6,7 @@
 ### Date: [01/26/2026]
 
 #### Goals for this Module
-- [ ] Familiarize myself with course materials and expectations
+- [ ] Familiarize myself with course material and expectations
 - [ ] Research and brainstorm ideas for mini game concept
 - [ ] Research and brainstorm visual narrative/theme/aesthetic for game concept
 -->
