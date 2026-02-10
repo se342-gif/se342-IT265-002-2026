@@ -9,11 +9,7 @@
 - [ ] Learning game balance and symmetry, how to integrate in into future game concepts
 - [ ] Understanding the different types of game balance, advantages/disadvantages and effect on player experience
 - [ ] Narrowing down mini game concept to a pixel game and experimenting with world building ideas
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
+
 
 #### Progress
 - **What I accomplished**:
