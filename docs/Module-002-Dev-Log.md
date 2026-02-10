@@ -32,12 +32,7 @@
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
   -  Symmetries among various games - experiment, see what works best and what doesn’t and how to go about executing in design production. See how it can be integrated in mini games concept (as a whole or in seperate games - or rather partially involved in some parts)
-
-
-- Example prompts:
-  
-  
--->
+ 
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
