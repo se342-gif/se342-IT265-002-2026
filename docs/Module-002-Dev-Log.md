@@ -36,4 +36,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  expand on mini game ideas and apply more newly learned concepts to games as we progress. Decide on how to narrow it down to more simple seperate mini games or rather integrate it in part of storytelling. 
+  -  expand on mini game ideas and apply more newly learned concepts to games as we progress. Decide on how to narrow it down to more simple seperate mini games or rather integrate it in part of storytelling. 
