@@ -6,10 +6,7 @@
 ### Date: [02/16/2026]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Establish game content/overview
-- [ ] Decide on physical appeal/design and or theme/color palette
-- [ ] - Settle on basic rules for card game after having seen examples (although prone to changing)
+
 -->
 
 #### Progress
