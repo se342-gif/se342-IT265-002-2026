@@ -26,7 +26,8 @@
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
-  -I thought of two different games. A 1v1 turn-based card game where players each take turns adding ingredients into a shared oven ("the slot). The last final ingredient is placed, the combination either creates an edible pastry, resulting in addition of points Or a failed recipe that causes penalties or loss of points. The player with the highest score by the end of the game wins. The player can swap pastries or choose to skip where the other player can create their own pastry - although risking a failed pastry disk.
+
+  - I thought of two different games. A 1v1 turn-based card game where players each take turns adding ingredients into a shared oven ("the slot). The last final ingredient is placed, the combination either creates an edible pastry, resulting in addition of points Or a failed recipe that causes penalties or loss of points. The player with the highest score by the end of the game wins. The player can swap pastries or choose to skip where the other player can create their own pastry - although risking a failed pastry disk.
 
 
 
