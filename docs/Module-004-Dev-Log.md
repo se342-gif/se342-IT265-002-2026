@@ -22,19 +22,19 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  Learned about color theory and its application in gameplay - analogus color scheme, complimentary; visual cues in games that can either aid players and enhance player experience or disrupt/exacerbate gameplay. Learned more about application of light and following a specific color scheme can boost a game's visual storytelling. 
+  -  Learned about color theory and its application in gameplay - analogus color scheme, complimentary; visual cues in games that can either aid players and enhance player experience or disrupt/exacerbate gameplay. Learned more about application of light and following a specific color scheme can boost a game's visual storytelling. 
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--I thought of two different games. A 1v1 turn-based card game where players each take turns adding ingredients into a shared oven ("the slot). The last final ingredient is placed, the combination either creates an edible pastry, resulting in addition of points Or a failed recipe that causes penalties or loss of points. The player with the highest score by the end of the game wins. The player can swap pastries or choose to skip where the other player can create their own pastry - although risking a failed pastry disk.
+  -I thought of two different games. A 1v1 turn-based card game where players each take turns adding ingredients into a shared oven ("the slot). The last final ingredient is placed, the combination either creates an edible pastry, resulting in addition of points Or a failed recipe that causes penalties or loss of points. The player with the highest score by the end of the game wins. The player can swap pastries or choose to skip where the other player can create their own pastry - although risking a failed pastry disk.
 
 
 
-I thought of a spiral, dessert-themed game where players can roll a dice to move along a spiral where they must reach the center of the cake. Along the way, players can collect ingredients as upgrades, or use attack cards. So for exmaple, they land on an extra oven slot where they gain a point, gain fresh ingredients where they move a tile closer. Attakcs could be on spilled milk, burtn batch, or swap recipes. etc. 
+  - I thought of a spiral, dessert-themed game where players can roll a dice to move along a spiral where they must reach the center of the cake. Along the way, players can collect ingredients as upgrades, or use attack cards. So for exmaple, they land on an extra oven slot where they gain a point, gain fresh ingredients where they move a tile closer. Attakcs could be on spilled milk, burtn batch, or swap recipes. etc. 
 
 
-seperate ingredients - equate to single points, combination of ingredients equal to full cake for example of completed pastry,  - players get to allocate the ingredients into slots to make fully baked pastry equating to addition of points
+  seperate ingredients - equate to single points, combination of ingredients equal to full cake for example of completed pastry,  - players get to allocate the ingredients into slots to make fully baked pastry equating to addition of points
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  continue expanding on dessert-themed visual storytelling and selling point for game
+  - continue expanding on dessert-themed visual storytelling and overall unique/distinguishable selling point for game
