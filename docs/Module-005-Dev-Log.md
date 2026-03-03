@@ -5,8 +5,8 @@
 ### Date: [03/02/2026]
 
 #### Goals for this Module
-- [ ] Further game content/overview
-- [ ] Completed narrative of storyboard to furhter mehcnaics and or overall gameplay
+- [ ] Establish gameplay through phyiscal protoytpe game system
+- [ ] Complete narrative of storyboard to furhter mehcnaics and or overall gameplay
 - [ ] narrowed down on mechanics/rules in checkpoint
 
 #### Progress
