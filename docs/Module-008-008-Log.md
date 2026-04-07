@@ -25,7 +25,7 @@
     -  Start looking into digital game design models and tutorials, have basic concept of how to execute it through game engine.  Use past unity knowledge into world building and design.
 #### Learnings
 - Key insights, techniques, or concepts explored.
-  -  observed and reflected feedback from other students' games and changed game mechanics as a result ( familiar with what's to be expected with game presentation, gaemplay overveiew explanation design etc.), looked into past games and architectural design from past unity work. 
+  -  observed and reflected feedback from other students' games and changed game mechanics as a result ( familiar with what's to be expected with game presentation, gameplay overview explanation design etc.), looked into past games and architectural design from past unity work. 
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
