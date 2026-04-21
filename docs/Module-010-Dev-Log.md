@@ -6,8 +6,8 @@
 
 #### Goals for this Module
 - [ ] Create new Unity Project and start making board
-- [ ] Make square grid and test 
-- [ ] Add charcater and multiplayer test
+- [ ] Make square grid layout for board game and test 
+- [ ] Add Character and multiplayer (entities) camera test 
 
 #### Progress
 - **What I accomplished**:
