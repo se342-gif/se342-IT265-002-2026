@@ -36,4 +36,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
-  
+  - continue with UI layout and adjustments
